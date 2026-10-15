@@ -1,0 +1,37 @@
+Today
+python pracrtice questions
+Perfect timing, Kaustubh 🤓. Since you’re sharpening your Python skills, let’s build a practice set that hits different levels—from fundamentals to advanced concepts. Here’s a mix you can try:
+
+🐍 Python Practice Questions
+🔹 Beginner
+Write a program to print the sum of all even numbers between 1 and 50.
+
+Take a string input and count how many vowels it contains.
+
+Write a program to swap two variables without using a third variable.
+
+Create a list of numbers and print only the unique elements.
+
+Write a program to check if a given number is prime.
+
+🔹 Intermediate
+Write a function that takes a list and returns the second largest element.
+
+Create a dictionary to store student names and marks, then print the student with the highest marks.
+
+Write a program to reverse words in a sentence while keeping their order.
+
+Implement a function to check if a string is a palindrome.
+
+Write a program to calculate factorial using recursion.
+
+🔹 Advanced / OOP
+Create a BankAccount class with methods to deposit, withdraw, and check balance.
+
+Write a class Rectangle with methods to calculate area and perimeter.
+
+Implement inheritance: create a Vehicle class and extend it into Car and Bike.
+
+Write a program to demonstrate polymorphism using a speak() method in different animal classes.
+
+Create a decorator that measures the execution time of a function.
